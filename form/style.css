@@ -1,0 +1,91 @@
+body {
+    background-color: rgba(5, 38, 157, 0.86);
+    color: white;
+    font-family: verdana;
+    font-size: 1.1em;
+    text-align: left;
+    background-image: url("https://img.freepik.com/vetores-premium/fundo-azul-escuro-do-codigo-binario-do-vetor-big-data-e-hacking-de-programacao-descriptografia-profunda-e-criptografia-numeros-de-streaming-de-computador-1-0-conceito-de-codificacao-ou-hacker_167184-401.jpg?w=970");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 0.9em;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+
+
+
+.input-radio {
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    transform: scale(1.5);
+
+}
+
+.input-checkbox {
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    padding: 5px;
+    transform: scale(1.5);
+
+}
+
+
+h1 {
+    font-family: 'Calibri';
+    font-size: 2em;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -10px;
+
+}
+
+header p {
+    font-family: 'Calibri';
+    font-size: 1em;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+
+form {
+    background-color: rgba(16, 16, 71, 0.8);
+    margin: 0 auto;
+    margin-bottom: -10px;
+    width: 70%;
+    padding: 2em;
+    border: 1px solid rgba(16, 16, 71, 0.8);
+    border-radius: 0.2em;
+}
+
+
+textarea {
+    vertical-align: center;
+    height: 10em;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    font-size: 0.9em;
+
+}
+
+button {
+    background-color: rgb(30, 190, 118);
+    justify-content: center;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
+    width: 100%;
+    font-size: 1em;
+    margin-bottom: 40px;
+}
